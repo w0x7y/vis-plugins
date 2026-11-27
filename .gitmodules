@@ -13,3 +13,6 @@
 [submodule "vis-oil"]
 	path = vis-oil
 	url = https://github.com/w0x7y/vis-oil.git
+[submodule "vis-smartindent"]
+	path = vis-smartindent
+	url = https://github.com/w0x7y/vis-smartindent.git
