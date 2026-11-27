@@ -1,0 +1,15 @@
+[submodule "vis-treesitter"]
+	path = vis-treesitter
+	url = https://github.com/w0x7y/vis-treesitter.git
+[submodule "vis-semantic-tokens"]
+	path = vis-semantic-tokens
+	url = https://github.com/w0x7y/vis-semantic-tokens.git
+[submodule "vis-gitsigns"]
+	path = vis-gitsigns
+	url = https://github.com/w0x7y/vis-gitsigns.git
+[submodule "vis-cursor"]
+	path = vis-cursor
+	url = https://github.com/w0x7y/vis-cursor.git
+[submodule "vis-oil"]
+	path = vis-oil
+	url = https://github.com/w0x7y/vis-oil.git
